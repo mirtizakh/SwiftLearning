@@ -1,4 +1,4 @@
-import UIKit
+
 
 // we can store integer value with underscore
 var number = 8_000_000
